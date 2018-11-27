@@ -4,10 +4,10 @@ public class Frete {
 
 	public double para(String cidade) {
 		if ("São Paulo".equals(cidade)) {
-			return 15;
+			return 35.00;
 		}
 		
-		return 30;
+		return 40.00;
 	}
 	
 }

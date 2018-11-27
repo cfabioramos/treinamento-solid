@@ -3,7 +3,6 @@ package com.br.ocp.introducao;
 public class CalculadoraDePrecos {
 
 	public double calcula(Compra produto) {
-		
 		TabelaDePrecoPadrao tabela = new TabelaDePrecoPadrao();
 		Frete correios = new Frete();
 		
@@ -11,7 +10,6 @@ public class CalculadoraDePrecos {
 		double frete = correios.para(produto.getCidade());
 		
 		return produto.getValor() * (1 - desconto) + frete;
-		
 	}
 	
 	
