@@ -2,7 +2,7 @@ package com.br.srp.passo1;
 
 import com.br.srp.introducao.Funcionario;
 
-public class QuinzeOuVinteECincoPorCento implements RegraDeCalculo {
+public class QuinzeOuVinteECincoPorCento {
 
 	@Override
 	public double calcula(Funcionario funcionario) {

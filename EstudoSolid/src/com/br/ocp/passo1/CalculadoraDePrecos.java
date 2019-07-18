@@ -10,12 +10,12 @@ public class CalculadoraDePrecos {
 		this.entrega = entrega;
 	}
 	
-	public double calcula(Compra produto) {
+	public double calcula(Compra compra) {
 		
-		double desconto = this.tabela.descontoPara(produto.getValor());
-		double frete = this.entrega.para(produto.getCidade());
+		double desconto = this.tabela.descontoPara(compra.getValor());
+		double frete = this.entrega.para(compra.getCidade());
 		
-		return produto.getValor() * (1 - desconto) + frete;
+		return compra.getValor() * (1 - desconto) + frete;
 		
 	}
 	
