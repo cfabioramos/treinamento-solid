@@ -1,0 +1,27 @@
+
+c
+3src/com/br/srp/introducao/CalculadoraDeSalario.java,c\7\c73a6c1aa7a751784c3f8b1e2305e110673ea815
+Z
+*src/com/br/srp/introducao/Funcionario.java,b\5\b526d1ff3efe0f99b940a618c8a6269a3487a19b
+_
+/src/com/br/srp/passo1/CalculadoraDeSalario.java,4\6\46b238bf0df8d24004f078e675b9609433962721
+]
+-src/com/br/srp/passo1/DezOuVintePorCento.java,1\4\1453488cb68a72111f53253bebbcdc764be2777d
+f
+6src/com/br/srp/passo1/QuinzeOuVinteECincoPorCento.java,4\4\4471387a218b2dc4ead302698d9076365861ab84
+Y
+)src/com/br/srp/passo1/RegraDeCalculo.java,7\c\7cf37dd4b8a2e7bf0c0f9f5e4b5fe6a9c2774b41
+_
+/src/com/br/srp/passo2/CalculadoraDeSalario.java,f\6\f655fb998991c2face0dfa70755775b72528bcf8
+V
+&src/com/br/srp/passo2/Funcionario.java,d\9\d97d7f36884263c83f673901968f60ba29623286
+f
+6src/com/br/srp/passo2/QuinzeOuVinteECincoPorCento.java,e\b\ebf856227a8d2349559ae0ee1e6dff8389c47aa0
+P
+ src/com/br/srp/passo2/Cargo.java,7\b\7bfc851a7be8d22b082fcfacb481c46b7132ee47
+Y
+)src/com/br/srp/passo2/RegraDeCalculo.java,c\6\c6cc260c00f454c3fd35ddf7d5f3b1ed5e9b40fd
+]
+-src/com/br/srp/passo2/DezOuVintePorCento.java,4\7\4706854fe2d6e565552dbff76f4770145c44ec31
+a
+1src/com/br/srp/exercicio/GeradorDeNotaFiscal.java,3\9\39640bbffbc161d7c30c1be6220e6c856e25d339
