@@ -17,10 +17,10 @@ public class ProcessadorDeInvestimentos {
 
 	private static List<ContaComum> contasDoBanco() {
 		List<ContaComum> contas = new ArrayList<>();
-		contas.add(new ContaDeEstudante(120.00));
 		contas.add(new ContaComum(100.00));
 		contas.add(new ContaComum(120.00));
 		contas.add(new ContaComum(200.00));
+		contas.add(new ContaDeEstudante(120.00));
 		return contas;
 	}
 	
