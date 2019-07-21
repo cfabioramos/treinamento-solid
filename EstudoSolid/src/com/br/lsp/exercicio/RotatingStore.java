@@ -1,8 +1,9 @@
-package com.br.lsp.exemplo2.introducao;
+package com.br.lsp.exercicio;
 
 public class RotatingStore extends BasicStore {
 	
 	public void makeMoreRoomForStore() {
-        this.stash.remove(this.stash.size() - 1);
+
+	    this.stash.remove(this.stash.size() - 1);
     }
 }

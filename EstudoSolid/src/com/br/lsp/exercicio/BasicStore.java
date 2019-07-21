@@ -1,4 +1,4 @@
-package com.br.lsp.exemplo2.introducao;
+package com.br.lsp.exercicio;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,6 +14,7 @@ public class BasicStore implements Store {
 		this.storeLimit = STORE_LIMIT;
 	}
 
+	@Override
 	public void store(String message) {
 		if (this.storeLimit == this.stash.size()) {
 			this.makeMoreRoomForStore();
@@ -21,7 +22,7 @@ public class BasicStore implements Store {
 		this.stash.add(message);
 	}
 
-	public void makeMoreRoomForStore() {
+	private void makeMoreRoomForStore() {
 		this.storeLimit += 5;
 	}
 	

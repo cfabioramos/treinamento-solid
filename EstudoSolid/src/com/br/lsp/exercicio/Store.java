@@ -1,4 +1,4 @@
-package com.br.lsp.exemplo2.introducao;
+package com.br.lsp.exercicio;
 
 import java.util.List;
 

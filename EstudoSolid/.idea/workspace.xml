@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732211d8-2eb7-4133-a67b-68e07ce95934" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/introducao/ProcessadorDeInvestimentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/introducao/ProcessadorDeInvestimentos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaComum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaComum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaDeEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaDeEstudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/passo1/IContaQueRende.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/passo1/IContaQueRende.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/passo1/ManipuladorDeSaldo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/passo1/ManipuladorDeSaldo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/passo1/ProcessadorDeInvestimentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/passo1/ProcessadorDeInvestimentos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cf37dd4b8a2e7bf0c0f9f5e4b5fe6a9c2774b41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/BasicStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/exercicio/BasicStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/RotatingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/exercicio/RotatingStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/br/lsp/exercicio/Store.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -21,7 +20,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/Store.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/BasicStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/RotatingStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +90,9 @@
         <option value="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaComum.java" />
         <option value="$PROJECT_DIR$/src/com/br/lsp/passo1/ManipuladorDeSaldo.java" />
         <option value="$PROJECT_DIR$/src/com/br/lsp/passo1/ContaDeEstudante.java" />
+        <option value="$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/BasicStore.java" />
+        <option value="$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/RotatingStore.java" />
+        <option value="$PROJECT_DIR$/src/com/br/lsp/exercicio/BasicStore.java" />
       </list>
     </option>
   </component>
@@ -104,31 +134,14 @@
               <item name="EstudoSolid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="isp" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EstudoSolid" type="b2602c69:ProjectViewProjectNode" />
               <item name="EstudoSolid" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="isp" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstudoSolid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EstudoSolid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="isp" type="462c0819:PsiDirectoryNode" />
-              <item name="introducao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstudoSolid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EstudoSolid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="isp" type="462c0819:PsiDirectoryNode" />
-              <item name="passo1" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +267,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31740892" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32307693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -329,13 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/srp/passo1/RegraDeCalculo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/br/srp/passo1/RegraDeCalculo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/br/srp/passo2/CalculadoraDeSalario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -476,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/CalculoDeImposto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/CalculoDeImposto.java" />
     <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/ImpostoRio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -515,20 +516,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/ImpostoDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/ImpostoDefault.java" />
     <entry file="file://$PROJECT_DIR$/src/com/br/ocp/strategy/passo1/NotaFiscal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -644,31 +633,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/Store.java">
+    <entry file="file://$PROJECT_DIR$/src/com/br/isp/introducao/ByteUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/RotatingStore.java">
+    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/BasicStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/RotatingStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exemplo2/introducao/BasicStore.java">
+    <entry file="file://$PROJECT_DIR$/src/com/br/lsp/exercicio/Store.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/br/isp/introducao/ByteUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>

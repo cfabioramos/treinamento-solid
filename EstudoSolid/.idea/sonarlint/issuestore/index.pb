@@ -9,8 +9,6 @@ _
 -src/com/br/srp/passo1/DezOuVintePorCento.java,1\4\1453488cb68a72111f53253bebbcdc764be2777d
 f
 6src/com/br/srp/passo1/QuinzeOuVinteECincoPorCento.java,4\4\4471387a218b2dc4ead302698d9076365861ab84
-Y
-)src/com/br/srp/passo1/RegraDeCalculo.java,7\c\7cf37dd4b8a2e7bf0c0f9f5e4b5fe6a9c2774b41
 _
 /src/com/br/srp/passo2/CalculadoraDeSalario.java,f\6\f655fb998991c2face0dfa70755775b72528bcf8
 V
