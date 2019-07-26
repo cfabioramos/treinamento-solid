@@ -1,29 +1,25 @@
 package com.br.lsp.passo1;
 
-public class ContaDeEstudante implements IContaQueRende{
+public class ContaDeEstudante implements IContaQueRende {
 	
-	private ManipuladorDeSaldo m;
+	private ManipuladorDeSaldo manipulador;
 	private int milhas;
 	
-	public ContaDeEstudante()  { 
-        m = new ManipuladorDeSaldo();
+	public ContaDeEstudante(double saldo) {
+        this.manipulador = new ManipuladorDeSaldo(saldo);
     }
 
 	public void deposita(double valor)  {
-        m.deposita(valor);
+        manipulador.deposita(valor);
         this.milhas += (int)valor;
     }
 	
 	public double getSaldo()  {
-        return m.getSaldo();
+        return manipulador.getSaldo();
     }
 	
 	public int getMilhas()  {
         return milhas;
     }
 
-	@Override
-	public void rende(double taxa) {
-	}
-	
 }

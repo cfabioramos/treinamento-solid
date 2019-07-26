@@ -2,14 +2,16 @@ package com.br.lsp.passo1;
 
 public class ContaComum implements IContaQueRende {
 
+	private final double TAXA_RENDIMENTO = 0.02;
+
 	private ManipuladorDeSaldo manipulador;
 
-	public ContaComum()  {
-        this.manipulador = new ManipuladorDeSaldo();
+	public ContaComum(double saldo) {
+		this.manipulador = new ManipuladorDeSaldo(saldo);
 	}
 	
-	public void rende(double taxa)  { 
-        this.manipulador.rende(taxa);
+	public void rende()  {
+		this.manipulador.rende(TAXA_RENDIMENTO);
     }
 	
 	public void saca(double valor, boolean isCaixaEletronico)  {

@@ -1,9 +1,13 @@
 package com.br.lsp.passo1;
 
 public class ManipuladorDeSaldo {
-	
-	private double saldo;
-	
+
+    private double saldo;
+
+    public ManipuladorDeSaldo(double saldo) {
+        this.saldo = saldo;
+    }
+
     public void deposita(double valor) {
         this.saldo += valor;
      }
@@ -17,8 +21,8 @@ public class ManipuladorDeSaldo {
     }
     
     //Taxa variável de acordo com o tipo de conta
-    public void rende(double taxa)  { 
-        this.saldo *= taxa;
+    public void rende(double taxa)  {
+        this.saldo += this.saldo * taxa;
     }
 
     public double getSaldo()  {

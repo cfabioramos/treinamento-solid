@@ -8,7 +8,7 @@ public class ProcessadorDeInvestimentos {
 	public static void main(String[] args) {
 
         for (IContaQueRende conta : contasDoBanco()) {
-            conta.rende(1.1);
+            conta.rende();
 
             System.out.println("Novo Saldo:");
             System.out.println(conta.getSaldo());
@@ -17,10 +17,10 @@ public class ProcessadorDeInvestimentos {
 
 	private static List<IContaQueRende> contasDoBanco() {
 		List<IContaQueRende> contas = new ArrayList<>();
-		contas.add(new ContaComum());
-		contas.add(new ContaDeEstudante());
-		contas.add(new ContaComum());
-		contas.add(new ContaComum());
+		contas.add(new ContaComum(100));
+		contas.add(new ContaDeEstudante(40));
+		contas.add(new ContaComum(124));
+		contas.add(new ContaComum(332));
 		return contas;
 	}
 	
