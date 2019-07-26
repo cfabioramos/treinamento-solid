@@ -1,0 +1,23 @@
+
+b
+2src/com/br/ocp/introducao/TabelaDePrecoPadrao.java,9\6\967c7e71f5ead3060be65a6a8f6c226d31b676f5
+e
+5src/com/br/ocp/introducao/TabelaDePrecosReduzida.java,e\8\e86576fbff8c6eee625639e82cefbd1473a490c6
+b
+2src/com/br/ocp/introducao/CalculadoraDePrecos.java,7\4\74dce3c3bff05b51469dedbe17ce20f31b842da9
+Q
+!src/com/br/ocp/passo1/Compra.java,c\0\c02de091b94bf825784068d465927305c5fe3bf3
+P
+ src/com/br/ocp/passo1/Frete.java,1\8\18308a14be05e0f685a96a7ec9aff39ecdaf1c9b
+[
++src/com/br/ocp/passo1/ServicoDeEntrega.java,8\5\8550d4580c2dc95e7080195a371d876c5b11e69a
+X
+(src/com/br/ocp/passo1/TabelaDePreco.java,4\2\420f0cc2d8890edf9cf31cbdd58821979c6abd18
+^
+.src/com/br/ocp/passo1/TabelaDePrecoPadrao.java,9\5\9533f18bf82ba94d099524fcbdeea07e1b01982c
+^
+.src/com/br/ocp/passo1/CalculadoraDePrecos.java,8\4\8465d2e1b2c47ca5548a8aeacaa9c2314c82466f
+b
+2src/com/br/ocp/strategy/passo1/IBrakeBehavior.java,7\2\725f1f3ef1d5ed973e74c12678de730b6b449b63
+^
+.src/com/br/ocp/strategy/passo1/CarExample.java,f\5\f598ea23549fa7de9375cbd75b2f1d8940e750ef
