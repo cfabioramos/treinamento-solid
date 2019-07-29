@@ -1,6 +1,6 @@
 package com.br.ocp.passo1;
 
-public class TabelaDePrecoPadrao implements TabelaDePreco {
+public class TabelaDePrecoReduzido implements TabelaDePreco {
 
 	public double descontoPara(double valor) {
 		if (valor > 1000) return 0.05;
